@@ -1,4 +1,4 @@
-package com.company;
+package com.company.JAVA;
 
 public class MethodOverloading {
     public static void main(String[] args) {

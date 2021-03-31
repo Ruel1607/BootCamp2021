@@ -1,22 +1,23 @@
-package com.company;
+package com.company.JAVA;
 
 public class WhileDoWhileStatement {
     public static void main(String[] args) {
 
         int number = 0;
-        int lNumber = 400;
+        int lNumber = 20;
         int evenNumberFound = 0;
         while (number <= lNumber) {
             number++;
             if (!isEvenNumber(number)) {
                 continue;
             }
-            evenNumberFound++;
-            /*if (evenNumberFound == 10) {
-                break;
-            }*/
-
             System.out.println("EVEN NUMBER : " + number);
+            evenNumberFound++;
+            if (evenNumberFound == 5) {
+                break;
+            }
+
+
         }
         System.out.println("EVEN NUMBER FOUND : " + evenNumberFound);
     }
@@ -25,7 +26,7 @@ public class WhileDoWhileStatement {
     /*   while (count !=11) {
            System.out.println("COUNT :" + count);
            count++;
-*/
+    */
         /*    do {
                 System.out.println("COUNT VALUE :" + count);
                 count++;
