@@ -1,4 +1,4 @@
-package OopBankAccountWithPARAMETER;
+package OOP.OopBankAccountWithPARAMETER;
 
 public class BankAcccountMain {
     public static void main(String[] args) {

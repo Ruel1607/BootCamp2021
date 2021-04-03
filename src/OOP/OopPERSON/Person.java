@@ -1,4 +1,4 @@
-package OopPERSON;
+package OOP.OopPERSON;
 
 public class Person {
     private String name;

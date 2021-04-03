@@ -1,4 +1,4 @@
-package OopVehicleAndComposition;
+package OOP.OopVehicleAndComposition;
 
 public class MotherBoard {
     private String model;

@@ -1,4 +1,4 @@
-package OopVehicleAndComposition;
+package OOP.OopVehicleAndComposition;
 
 public class Case {
     private String model;

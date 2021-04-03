@@ -1,4 +1,4 @@
-package OopVehicleAndComposition;
+package OOP.OopVehicleAndComposition;
 
 public class Vehicle {
     private String name;

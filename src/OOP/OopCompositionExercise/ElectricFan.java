@@ -1,4 +1,4 @@
-package OopCompositionExercise;
+package OOP.OopCompositionExercise;
 
 public class ElectricFan {
     private String model ;

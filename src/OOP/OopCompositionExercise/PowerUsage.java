@@ -1,8 +1,4 @@
-package OopCompositionExercise;
-
-import com.sun.xml.internal.ws.api.model.wsdl.WSDLOutput;
-
-import java.sql.SQLOutput;
+package OOP.OopCompositionExercise;
 
 public class PowerUsage {
     private int volts ;

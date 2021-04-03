@@ -1,4 +1,4 @@
-package OopCompositionExercise;
+package OOP.OopCompositionExercise;
 
 public class BedRoom {
     private Aircon aircon ;

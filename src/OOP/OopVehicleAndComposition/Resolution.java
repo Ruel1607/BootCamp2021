@@ -1,4 +1,4 @@
-package OopVehicleAndComposition;
+package OOP.OopVehicleAndComposition;
 
 public class Resolution {
     private int widht;

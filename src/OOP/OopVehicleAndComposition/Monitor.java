@@ -1,4 +1,4 @@
-package OopVehicleAndComposition;
+package OOP.OopVehicleAndComposition;
 
 public class Monitor {
     private String model;

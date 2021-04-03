@@ -1,4 +1,4 @@
-package OopInheritance;
+package OOP.OopInheritance;
 
 public class Main {
     public static void main(String[] args) {

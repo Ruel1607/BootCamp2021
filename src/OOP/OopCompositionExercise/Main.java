@@ -1,6 +1,4 @@
-package OopCompositionExercise;
-
-import OopVehicleAndComposition.*;
+package OOP.OopCompositionExercise;
 
 public class Main {
     public static void main(String[] args) {

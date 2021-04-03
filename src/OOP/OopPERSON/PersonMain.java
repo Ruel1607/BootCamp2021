@@ -1,4 +1,4 @@
-package OopPERSON;
+package OOP.OopPERSON;
 
 public class PersonMain {
     public static void main(String[] args) {

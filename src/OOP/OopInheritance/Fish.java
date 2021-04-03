@@ -1,4 +1,4 @@
-package OopInheritance;
+package OOP.OopInheritance;
 
 public class Fish extends Animal {
 

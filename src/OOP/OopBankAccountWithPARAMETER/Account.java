@@ -1,4 +1,4 @@
-package OopBankAccountWithPARAMETER;
+package OOP.OopBankAccountWithPARAMETER;
 
 public class Account {
 
@@ -9,24 +9,25 @@ public class Account {
     private double balance;
 
 
-    public Account(){
+    public Account() {
 
     }
-    public Account(String name , double balance){
+
+    public Account(String name, double balance) {
         this.balance = balance;
         this.name = name;
 
     }
-    public void deposit(double dep){
+
+    public void deposit(double dep) {
         this.balance += dep;
         System.out.println("Deposit of " + dep + " made new Balance " + this.balance);
     }
 
-    public void withdraw(double withdrawAmount){
+    public void withdraw(double withdrawAmount) {
         this.balance -= withdrawAmount;
         System.out.println("WITHDRAW  of " + withdrawAmount + " made new Balance " + this.balance);
     }
-
 
 
     public String getName() {
@@ -62,7 +63,7 @@ public class Account {
     }
 
     public double getBalance() {
-        return balance ;
+        return balance;
     }
 
     public void setBalance(double balance) {
