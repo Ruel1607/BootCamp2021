@@ -29,5 +29,6 @@ public class BedRoom {
 
                 '}';
         System.out.println(s);
+        ;
     }
 }
