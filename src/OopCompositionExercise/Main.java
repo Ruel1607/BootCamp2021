@@ -13,6 +13,6 @@ public class Main {
         BedRoom bR = new BedRoom(myAircon,eFan,bnp);
 
         bR.bedRoomCalled();
-        bR.toShow();
+
     }
 }

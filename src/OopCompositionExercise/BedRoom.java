@@ -17,11 +17,11 @@ public class BedRoom {
     }
     private void powerUsage(){
         pwr.computeMonthlyUsage(12,16);
-
+        display();
         }
 
 
-    public String toShow() {
+    private void  display() {
         String s = "BedRoom{" +
                 "aircon=" + aircon.toString()+
                 ", eFan=" + eFan +
@@ -29,7 +29,5 @@ public class BedRoom {
 
                 '}';
         System.out.println(s);
-
-        return s;
     }
 }
