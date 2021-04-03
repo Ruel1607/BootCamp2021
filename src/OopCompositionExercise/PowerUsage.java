@@ -28,4 +28,10 @@ public class PowerUsage {
 
      }
 
+    @Override
+    public String toString() {
+        return "PowerUsage{" +
+                "volts=" + volts +
+                '}';
+    }
 }
