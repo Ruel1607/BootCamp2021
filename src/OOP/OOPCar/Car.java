@@ -1,4 +1,4 @@
-package OOP;
+package OOP.OOPCar;
 
 public class Car {
 
