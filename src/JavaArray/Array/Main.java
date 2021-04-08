@@ -1,4 +1,4 @@
-package JavaArray;
+package JavaArray.Array;
 
 public class Main {
 
