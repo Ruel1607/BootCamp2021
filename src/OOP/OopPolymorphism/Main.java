@@ -5,7 +5,7 @@ public class Main {
 
         for(int i = 1 ; i<11; i++){
             Movie movie =  randomMovie();
-            System.out.println("MOVIE# " + i + " : " + movie.getTitle() + "\n" + "plot" + movie.plot()+ "\n");
+            System.out.println("MOVIE# " + i + " : " + movie.getTitle() + "\n" + "plot :" + movie.plot()+ "\n");
 
         }
 
