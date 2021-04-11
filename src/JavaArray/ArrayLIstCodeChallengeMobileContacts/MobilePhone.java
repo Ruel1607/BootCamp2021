@@ -1,6 +1,5 @@
-package JavaArray.ArrayLIstCodeChallengeMobileContacts;
 
-import com.sun.corba.se.pept.transport.ContactInfo;
+
 
 import java.util.ArrayList;
 import java.util.Collections;
