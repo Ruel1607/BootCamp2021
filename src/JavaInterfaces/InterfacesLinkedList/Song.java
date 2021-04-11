@@ -1,4 +1,4 @@
-package LinkedList.ANSWERFORCODECHALLENGE;
+package JavaInterfaces.InterfacesLinkedList;
 
   public   class Song {
 
