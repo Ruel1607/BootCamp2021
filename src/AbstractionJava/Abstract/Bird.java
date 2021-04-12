@@ -1,4 +1,4 @@
-package AbstractJava.Abstract;
+package AbstractionJava.Abstract;
 
 public abstract class Bird  extends  Animal {
     public Bird(String name) {

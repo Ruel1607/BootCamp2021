@@ -1,4 +1,4 @@
-package AbstractJava.Abstract;
+package AbstractionJava.Abstract;
 
 public class Penguin extends Bird implements canFly {
     public Penguin(String name) {

@@ -1,6 +1,4 @@
-package AbstractJava.Exercise;
-
-import java.util.List;
+package AbstractionJava.Exercise;
 
 public abstract class ListItem {
     protected ListItem rightLink = null;

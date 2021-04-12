@@ -1,4 +1,4 @@
-package AbstractJava.Abstract;
+package AbstractionJava.Abstract;
 
 public class Dog extends  Animal{
 

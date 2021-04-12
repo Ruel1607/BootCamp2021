@@ -1,4 +1,4 @@
-package AbstractJava.Exercise;
+package AbstractionJava.Exercise;
 
 public class MyLinkList implements NodeList {
 

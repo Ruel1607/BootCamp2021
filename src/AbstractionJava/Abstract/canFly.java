@@ -1,4 +1,4 @@
-package AbstractJava.Abstract;
+package AbstractionJava.Abstract;
 
 public interface canFly {
     void fly();
