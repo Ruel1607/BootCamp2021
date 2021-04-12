@@ -10,6 +10,10 @@ public class MobilePhone implements  ITelephone{
         this.myNumber = myNumber;
     }
 
+    public MobilePhone() {
+        
+    }
+
     @Override
     public void powerOn() {
         isOn = true;
@@ -51,6 +55,9 @@ public class MobilePhone implements  ITelephone{
     @Override
     public boolean isRinging() {
         return isRinging;
+    }
+
+    public void printContacts() {
     }
 }
 

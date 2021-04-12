@@ -1,4 +1,6 @@
-package JavaArray.ArrayLIstCodeChallengeMobileContacts;
+/*
+
+import JavaInterfaces.Interfaces.MobilePhone;
 
 import java.util.Scanner;
 
@@ -105,3 +107,4 @@ public class Main {
 
 
 
+*/
