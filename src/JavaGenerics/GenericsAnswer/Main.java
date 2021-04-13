@@ -1,4 +1,4 @@
-package GenericsAnswer;
+package JavaGenerics.GenericsAnswer;
 
 public class Main {
 

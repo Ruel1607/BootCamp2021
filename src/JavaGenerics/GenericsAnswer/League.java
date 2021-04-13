@@ -1,4 +1,4 @@
-package GenericsAnswer;
+package JavaGenerics.GenericsAnswer;
 
 import java.util.ArrayList;
 import java.util.Collections;
