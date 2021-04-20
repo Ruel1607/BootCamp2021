@@ -3,6 +3,7 @@ package Collections.BinarySearch;
 
 public class Seat implements Comparable<Seat>{
     private final String seatNumber;
+
     private boolean reserved = false;
 
     public Seat(String seatNumber) {

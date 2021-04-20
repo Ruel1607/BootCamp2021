@@ -11,6 +11,7 @@ public class Main {
         List<Seat> seatCopy = new ArrayList<>(theater.seats);
         printList(seatCopy);
 
+
         seatCopy.get(1).reserved();
         if(theater.reservedSeat("A02")){
             System.out.println("PLEASE PAY FOR A02");
