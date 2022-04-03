@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class AstrologicalSignSwitchCase {
 
     public static void main(String[] args) {
-
+////test
 
         String ans;
         do {
