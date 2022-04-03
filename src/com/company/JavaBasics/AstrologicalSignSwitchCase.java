@@ -6,7 +6,7 @@ public class AstrologicalSignSwitchCase {
 
     public static void main(String[] args) {
 ////test
-
+////sasasa
         String ans;
         do {
             int day;
